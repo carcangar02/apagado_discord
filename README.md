@@ -1,0 +1,1 @@
+Programa sencillo que usa un Bot de Discord creado por mi que escucha en un servidor, si recibe el mensaje 'apagar' el ordenador se apagara de forma remota, este proyecto abre puertas a controlar otros programas del pc local mediante comandos de forma remota.
